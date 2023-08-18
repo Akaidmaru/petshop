@@ -1,0 +1,43 @@
+/* Resets margins*/
+* {
+    margin: 0;
+}
+
+nav .offers {
+    background-color: #222222;
+    height: 20px;
+    color: #F3F3F3;
+}
+
+.menu {
+    background-color: #F0A83E;
+    height: 62px;
+}
+
+.banner {
+    height: 409px;
+    width: 100%;
+    background: url("../img/Slide.png");
+    background-size: 100%;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+.suscribe {
+    background-color: #F0A83E;
+    height: 60px;
+}
+
+.nav-bottom {
+    background-color: #3C2313;
+}
+
+.copyright {
+    height: 20px;
+    background-color: #222222;
+    color: #FFFFFF;
+    font-size: 10px;
+}
